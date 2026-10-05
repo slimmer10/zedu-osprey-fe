@@ -47,5 +47,5 @@ export const zeduOspreyContributors: Contributor[] = [
   { name: "Sodiq Aliu", username: "sodiqbinaliu" },
   { name: "Udoh, Ubokabasi Odudu", username: "Basi" },
   { name: "Yusuf Bashir Nayaya", username: "Ybee" },
-  { name: "Zuliyat", username: "Pom Pom" },
+  { name: "ZuliyatG", username: "Pom Pom" },
 ];
